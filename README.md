@@ -1,4 +1,9 @@
-# Hi there, I'm Jose Godinez 👋
+<h1 align="center">Jose Godinez</h1>
+
+<p align="center">
+  <i>"Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing."</i><br>
+  — Dwight Schrute
+</p>
 
 ## Systems Engineer | Linux & Windows Administrator | DoD-Cleared Technical Professional
 
