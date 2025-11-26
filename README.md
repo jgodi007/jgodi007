@@ -58,13 +58,32 @@ Now transitioning fully into technical Systems Engineering roles, especially wit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgodi007&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- Main Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=jgodi007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+  height="165"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgodi007&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgodi007&theme=tokyonight&hide_border=true)
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgodi007&layout=compact&theme=tokyonight&hide_border=true" 
+  height="165"
+/>
 
 </div>
+
+---
+
+<div align="center">
+
+<!-- GitHub Streak (uses a newer, stable endpoint) -->
+<img 
+  src="https://streak-stats.demolab.com?user=jgodi007&theme=tokyonight&hide_border=true" 
+  height="165"
+/>
+
+</div>
+
 
 ---
 
