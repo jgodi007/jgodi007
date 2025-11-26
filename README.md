@@ -52,35 +52,6 @@ Now transitioning fully into technical Systems Engineering roles, especially wit
 - **🛰️ Secure Infrastructure Mini-Projects** – Hands-on exercises inspired by DoD-style environments  
 - **📑 Technical Documentation Portfolio** – SOPs, troubleshooting guides, and system configuration notes  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Main Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=jgodi007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
-  height="165"
-/>
-
-<!-- Top Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgodi007&layout=compact&theme=tokyonight&hide_border=true" 
-  height="165"
-/>
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Streak (uses a newer, stable endpoint) -->
-<img 
-  src="https://streak-stats.demolab.com?user=jgodi007&theme=tokyonight&hide_border=true" 
-  height="165"
-/>
-
-</div>
 
 ## 🎯 2025 Goals (Realistic & Role-Aligned)
 
