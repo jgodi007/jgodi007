@@ -72,8 +72,6 @@ Now transitioning fully into technical Systems Engineering roles, especially wit
 
 </div>
 
----
-
 <div align="center">
 
 <!-- GitHub Streak (uses a newer, stable endpoint) -->
@@ -83,9 +81,6 @@ Now transitioning fully into technical Systems Engineering roles, especially wit
 />
 
 </div>
-
-
----
 
 ## 🎯 2025 Goals (Realistic & Role-Aligned)
 
