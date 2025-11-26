@@ -1,6 +1,8 @@
-<h1 align="center">Jose Godinez</h1>
+<h1 align="center" style="color:#1E90FF;font-weight:800;text-decoration:underline;">
+  Jose Godinez
+</h1>
 
-<p align="center">
+<p align="center" style="color:#87CEFA;font-size:16px;">
   <i>"Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing."</i><br>
   — Dwight Schrute
 </p>
